@@ -1,0 +1,43 @@
+/* li {
+    color:green
+}
+
+ a:hover {
+    text-decoration: none;
+    background-color: yellow;
+    color:red;
+}
+   .button:active{
+      background-color: aqua;
+   }
+a:active{
+    text-decoration: underline;
+    color:green;
+}
+a:visited {
+
+    color:blueviolet ; */
+
+
+
+
+a:link{
+
+    color:blueviolet;
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: yellow;
+    color:red;
+}
+ 
+.span{
+     background-color: aqua;
+     display:inline-block;
+     width:50px;
+     height: 25px;
+     padding:20 px;
+     border: 3px solid red;
+     margin: 10px;
+}

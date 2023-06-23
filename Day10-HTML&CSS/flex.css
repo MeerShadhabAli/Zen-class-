@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    height: 300px;
+    align-items:center;
+    flex-direction: row;
+    border: 1px solid blueviolet;
+    justify-content: center;
+     flex-basis: 75px ;
+     flex-grow:1;
+}
+
+.box{
+
+    padding: 20px;
+    margin: 10px;
+    background-color: bisque;
+}
