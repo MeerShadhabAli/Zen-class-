@@ -1,0 +1,42 @@
+/* .fixed-header{
+    position: fixed;
+    top:0;
+    right: 0;
+    width: 100%;
+    background-color: blueviolet;
+    color: bisque;
+    padding: 10px;
+}
+
+body{
+    padding-top: 100px;
+    height: 100vh;
+} */
+
+
+/* 
+ */
+ .container{
+    position: relative;
+    width: 400px;
+    border: 1px solid black;
+    height: 300px;
+ }
+
+ .absoluteDiv{
+    position:absolute;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    top: 20px;
+    left: 20px;
+
+ }
+ .relativeDiv{
+    position: relative;
+    background-color: rgb(206, 140, 123);
+    width:100px;
+    height:100px;
+    top: 50px;
+    left: 50px;
+ }
